@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+BananaImages/
+banana_life_predictor.code-workspace
+banana_resnet18_regression.pth
+banana_test_predictions.csv
